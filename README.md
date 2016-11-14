@@ -1,0 +1,3 @@
+# Hackerrank-NCR-CODESPRINT
+This are problems from NCR Codesprint of hackerrank which held on 5/11/2016/. It was 2 days long contest .I came to solve 6 problems and ranked
+133th golbaly(2nd in Bangladesh).I shared the solutions here.
